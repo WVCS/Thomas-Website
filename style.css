@@ -1,3 +1,29 @@
 body {
 
 }
+
+nav{
+  list-style-type: none;
+  background-color: orange;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  color: lightblue;
+  text-align: right;
+  
+}
+
+li{
+  display: inline;
+  padding: 18px;
+}
+li:hover {
+  background-color: gold;
+}
+
+a{
+  text-decoration: none;
+  color: darkgreen;
+}
