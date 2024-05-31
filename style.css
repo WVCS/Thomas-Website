@@ -13,6 +13,7 @@ body {
   background-color: 
     antiquewhite;
 }
+
 nav{
   list-style-type: none;
   background-color: orange;
@@ -39,16 +40,3 @@ a{
   color: darkgreen;
 }
 
-h1 {
-  color: blue;
-  font-size: 80px;
-  text-align: center;
-  text-decoration: overline;
-  text-shadow: 2px 2px 3px #EEC6CA;
-  font-family: "Brush Script MT", cursive;
-  
-}
-body {
-  background-color: 
-    antiquewhite;
-}
