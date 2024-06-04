@@ -22,6 +22,16 @@ h1 {
   font-family: "Brush Script MT", cursive;
   
 }
+h2 {
+  color: blue;
+  font-size: 200px;
+  text-align: center;
+  margin-top: 50px;
+  text-decoration: overline;
+  text-shadow: 2px 2px 3px #EEC6CA;
+  font-family: "Brush Script MT", cursive;
+  
+}
 body {
   background-color: 
     antiquewhite;
